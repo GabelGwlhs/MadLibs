@@ -1,9 +1,9 @@
 import java.util.Scanner;
 /**
- * Write a description of class madLibs here.
+ * Takes the users name, date, nouns, adjectives , adverbs, etc and uses in a madlib
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Gracie Gabel
+ * @9/16/22
  */
 public class madLibs
 {
